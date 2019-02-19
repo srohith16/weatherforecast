@@ -1,0 +1,26 @@
+.heading{
+    margin-top: 20px;
+    background-color: blueviolet;
+     text-align: center;
+    height: 50px;
+}
+.text-center{
+    padding-top: 0px;
+    
+}
+.selectArea{
+    margin-top: 20px;
+}
+
+.chart{
+    text-align: center;
+    height: 800px;
+    width: 800px;
+    margin-top: 30px;
+    
+}
+
+.container{
+text-align: center;
+margin: auto;
+}
